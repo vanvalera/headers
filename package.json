@@ -1,0 +1,12 @@
+{
+  "name": "Headers",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "homepage": "https://vanvalera.github.io/headers"
+}
